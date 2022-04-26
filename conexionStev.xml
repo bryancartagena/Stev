@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <com_aMaterno />
+   <com_aPaterno />
+   <com_cPostal />
+   <com_calidad>J</com_calidad>
+   <com_calle>LIBERTADOR BERNARDO OHIGGINS </com_calle>
+   <com_cantidad>0</com_cantidad>
+   <com_comuna>408</com_comuna>
+   <com_email>CONTACTO@SERVICIOSCYR.CL</com_email>
+   <com_esComunidad>NO</com_esComunidad>
+   <com_ltrDomicilio />
+   <com_nombresRazon>TOLED PRODUCCIONES SPA</com_nombresRazon>
+   <com_nroDomicilio>351</com_nroDomicilio>
+   <com_rDomicilio>OFICINA 7</com_rDomicilio>
+   <com_runRut>76958676</com_runRut>
+   <com_telefeno>42677867</com_telefeno>
+   <doc_codigoNotaria />
+   <doc_fecha>2022-04-22</doc_fecha>
+   <doc_kilometraje />
+   <doc_lugar>408</doc_lugar>
+   <doc_moneda>$</doc_moneda>
+   <doc_naturaleza>TRANSFERENCIA</doc_naturaleza>
+   <doc_numero>6463</doc_numero>
+   <doc_rut>96703360</doc_rut>
+   <doc_tipoDocumento>FACTURA ELECTRONICA</doc_tipoDocumento>
+   <doc_total>21800000</doc_total>
+   <est_aMaterno>Du00cdAZ</est_aMaterno>
+   <est_aPaterno>CORNEJO</est_aPaterno>
+   <est_cPostal />
+   <est_calidad>J</est_calidad>
+   <est_calle>EL ULMO</est_calle>
+   <est_comuna>220</est_comuna>
+   <est_email>CONTACTO@SERVICIOSCYR.CL</est_email>
+   <est_ltrDomicilio />
+   <est_nombresRazon>RODRIGO ALEJANDRO</est_nombresRazon>
+   <est_nroDomicilio>1106</est_nroDomicilio>
+   <est_prohibicion>NO</est_prohibicion>
+   <est_rDomicilio />
+   <est_runRut>13756695</est_runRut>
+   <est_telefono>42677867</est_telefono>
+   <imp_codigoCID>04221800637932042202311511</imp_codigoCID>
+   <imp_montoPagado>327000</imp_montoPagado>
+   <ope_rEmpresa>76475415</ope_rEmpresa>
+   <ope_region>7</ope_region>
+   <ope_runUsuario>13756695</ope_runUsuario>
+   <seccion>save-stev</seccion>
+   <sol_aMaterno>ROJAS</sol_aMaterno>
+   <sol_aPaterno>CHAPARRO</sol_aPaterno>
+   <sol_cPostal />
+   <sol_calidad>Natural</sol_calidad>
+   <sol_calle>EL ULMO</sol_calle>
+   <sol_comuna>220</sol_comuna>
+   <sol_email>ECHAPARRO@SERVICIOSCYR.CL</sol_email>
+   <sol_ltrDomicilio />
+   <sol_nombresRazon>EXIOBEL NEPTALI</sol_nombresRazon>
+   <sol_nroDomicilio>1106</sol_nroDomicilio>
+   <sol_rDomicilio />
+   <sol_runRut>26065288-5</sol_runRut>
+   <sol_telefeno>224180469</sol_telefeno>
+   <veh_anoFabric>2022</veh_anoFabric>
+   <veh_color>BLANCO AZUL RACING MATE RO</veh_color>
+   <veh_dv>8</veh_dv>
+   <veh_marca>BMW</veh_marca>
+   <veh_modelo>R 1250 GS II 1254CC</veh_modelo>
+   <veh_nroChasis>WB10M0103N6E95351</veh_nroChasis>
+   <veh_nroMotor>32214012</veh_nroMotor>
+   <veh_nroSerie />
+   <veh_nroVin />
+   <veh_ppu>TBR024</veh_ppu>
+   <veh_tipoVehiculo>MOTO</veh_tipoVehiculo>
+   <ven_aMaterno />
+   <ven_aPaterno />
+   <ven_calidad>J</ven_calidad>
+   <ven_cantidad>0</ven_cantidad>
+   <ven_email>CONTACTO@SERVICIOSCYR.CL</ven_email>
+   <ven_esComunidad>NO</ven_esComunidad>
+   <ven_nombresRazon>UNIVERSAL MOTORS SPA</ven_nombresRazon>
+   <ven_runRut>96703360</ven_runRut>
+</root>
